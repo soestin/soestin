@@ -6,7 +6,7 @@ I'm a high school student with a strong passion for technology and virtualizatio
 ![Banner](https://r2.e-z.host/53a164e1-51b6-4088-ae8b-54e0e7c25201/fl16simm.png)
 
 ## Skills and Interests 🧰
-I have developed a diverse set of usefull skills. Here are some of the areas I've dabbled in:
+I have developed a diverse set of usefull skills. Here are some of the skill ive developed:
 
 ### Tech Skills
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,5 +22,5 @@ I have developed a diverse set of usefull skills. Here are some of the areas I'v
 ## Connect with Me 📫
 Feel free to reach out to me through any of the following platforms:
 
-- Discord: [soestin](https://discordapp.com/users/769813729599553567)
+- Discord: [@soestin](https://discordapp.com/users/769813729599553567)
 - Email: [justin@soestin.nl](mailto:justin@soestin.nl)
