@@ -1,12 +1,12 @@
 # Hello, I'm Justin! 👋
 
 ## About Me 🚀
-I'm a high school student with a strong passion for technology and virtualization. I enjoy exploring new tech gadgets and building a home lab for me and my family to enjoy. I'm planning to study ICT with a focus on virtualization and server management.
+I'm a high school student with a strong passion for technology and virtualization. I like exploring new tech gadgets and building a home lab for me and my family to enjoy. I'm planning to study ICT with a focus on virtualization and server management.
 
 ![Banner](https://r2.e-z.host/53a164e1-51b6-4088-ae8b-54e0e7c25201/fl16simm.png)
 
 ## Skills and Interests 🧰
-I have developed a diverse set of usefull skills. Here are some of the skill ive developed:
+Here are some of the skills ive developed:
 
 ### Tech Skills
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ I have developed a diverse set of usefull skills. Here are some of the skill ive
 - Exploring and Collecting Tech Gadgets
 - Building and Managing My Home Lab
 
-## Connect with Me 📫
+### Wanna Talk To Me?📫
 Feel free to reach out to me through any of the following platforms:
 
 - Discord: [@soestin](https://discordapp.com/users/769813729599553567)
