@@ -1,7 +1,7 @@
 # Hello, I'm Justin! 👋
 
 ## About Me 🚀
-I'm a high school student with a strong passion for technology and virtualization. I like exploring new tech gadgets and building a home lab for me and my family to enjoy. I'm planning to study ICT with a focus on virtualization and server management.
+I'm a high school student with a strong passion for technology and virtualization. I like exploring new tech gadgets and building a home lab for myself to experiment with new technologies. I'm planning to study ICT with a focus on virtualization and server management.
 
 ![Banner](https://r2.e-z.host/53a164e1-51b6-4088-ae8b-54e0e7c25201/fl16simm.png)
 
