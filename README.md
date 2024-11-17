@@ -1,26 +1,51 @@
-# Hello, I'm Justin! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## About Me 🚀
-I'm a high school student with a strong passion for technology and virtualization. I like exploring new tech gadgets and building a home lab for myself to experiment with new technologies. I'm planning to study ICT with a focus on virtualization and server management.
+###
 
-![Banner](https://r2.e-z.host/53a164e1-51b6-4088-ae8b-54e0e7c25201/fl16simm.png)
+<p align="left">My name is Justin, and I'm a 15-year-old student studying Systems Engineering from the Netherlands.</p>
 
-## Skills and Interests 🧰
-Here are some of the skills ive developed:
+###
 
-### Tech Skills
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<h2 align="left">About me</h2>
 
-### Hobbies and Interests
-- Virtualization and Self-Hosting
-- Exploring and Collecting Tech Gadgets
-- Building and Managing My Home Lab
+###
 
-### Wanna Talk To Me?📫
-Feel free to reach out to me through any of the following platforms:
+<p align="left">🐛 Creating bugs since 2019<br>📚 I'm currently learning TypeScript and React<br>🎲 Fun fact: I like biking 🚲</p>
 
-- Discord: [@soestin](https://discordapp.com/users/769813729599553567)
-- Email: [justin@soestin.nl](mailto:justin@soestin.nl)
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h1 align="left">Contact me! 👋</h1>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/769813729599553567" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
