@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey! What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript and React</p>
+<p align="left">I'm currently learning Typescript and React</p>
 
 ###
 
